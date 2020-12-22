@@ -1,0 +1,4 @@
+quando não é necessário todos métodos da interface,
+pode fazer um abstrato para realizar um só método,
+e deixa os outros métodos como método default no abstrato.
+então o filho pode optar qual método será Override de acordo com necessidade
